@@ -1,0 +1,613 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1674209847350853, "dur":789, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847351647, "dur":79, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1674209847351753, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1674209847351769, "dur":628, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1674209847352417, "dur":330, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847352747, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417304, "dur":134, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417438, "dur":148, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417586, "dur":82, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417668, "dur":48, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417716, "dur":19, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417735, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417740, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417741, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417744, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417745, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417749, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417750, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417753, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417754, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417757, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417759, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417764, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417765, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417769, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417770, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417775, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417776, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417779, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417780, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417785, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417786, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417789, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417790, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417795, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417796, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417803, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417805, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417810, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417811, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417814, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417816, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417819, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417820, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417823, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417824, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417828, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417839, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847417859, "dur":1457, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1674209847352429, "dur":417, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847352846, "dur":3348, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847356194, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1674209847356507, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847358114, "dur":2415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1674209847360549, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI.exe" }}
+,{ "pid":12345, "tid":1, "ts":1674209847360574, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847360576, "dur":1915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI.exe" }}
+,{ "pid":12345, "tid":1, "ts":1674209847362508, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847362531, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847364857, "dur":3990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847368866, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847368892, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847368896, "dur":3786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847372699, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847372716, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847372718, "dur":3944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847376697, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847376892, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847376897, "dur":2625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847379547, "dur":456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847380005, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847380010, "dur":3088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847383147, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847383196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674209847383201, "dur":4420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674209847387657, "dur":29633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847352234, "dur":518, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847352753, "dur":3346, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847356099, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1674209847356267, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847359368, "dur":2881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1674209847362269, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847362292, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847363123, "dur":4086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847367236, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847367268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847367273, "dur":3111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847370407, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847370426, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847370429, "dur":5113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847375571, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847375602, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847375607, "dur":2929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847378572, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847378722, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847378730, "dur":2685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847381445, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847381482, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847381489, "dur":2704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847384222, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847384312, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674209847384316, "dur":3389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674209847387741, "dur":29577, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847352251, "dur":505, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847352757, "dur":3341, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847356098, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1674209847356217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847359511, "dur":2150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1674209847361677, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847361698, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847362496, "dur":2134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847364649, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847364671, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847364674, "dur":3899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847368592, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847368610, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847368613, "dur":3696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847372328, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847372347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847372350, "dur":3750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847376123, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847376380, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847376383, "dur":2949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847379349, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847379434, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847379439, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847382036, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847382059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847382065, "dur":2624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674209847384736, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1674209847384814, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847384819, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1674209847386750, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1674209847386802, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674209847386809, "dur":2790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1674209847389613, "dur":27692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847352280, "dur":480, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847352760, "dur":3391, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847356151, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1674209847356281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847359369, "dur":2896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1674209847362288, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847362316, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847363200, "dur":3557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847366801, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847366826, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847366843, "dur":3408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847370269, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847370309, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847370312, "dur":4934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847375283, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847375327, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847375330, "dur":3048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847378412, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847378520, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847378524, "dur":2659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847381198, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847381219, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847381222, "dur":2749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847383992, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847384015, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674209847384018, "dur":3642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674209847387694, "dur":29593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847352886, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847352886, "dur":3291, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847356178, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1674209847356392, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847358550, "dur":2358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1674209847360954, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1674209847361048, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847362188, "dur":6737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1674209847368969, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847369016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847369022, "dur":3816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847372856, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847372878, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847372881, "dur":3983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847376900, "dur":354, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847377256, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847377259, "dur":2904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847380184, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847380408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847380412, "dur":2789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847383221, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847383245, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847383248, "dur":3618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674209847386913, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1674209847386948, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674209847386953, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1674209847388517, "dur":28781, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847352914, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847352915, "dur":3278, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847356193, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1674209847356394, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847358384, "dur":2956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1674209847361361, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847361388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847362731, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847365327, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847365361, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847365364, "dur":3661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847369046, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847369068, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847369071, "dur":3785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847372877, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847372898, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847372906, "dur":4098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847377039, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847377189, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847377194, "dur":2572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847379802, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847379843, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847379848, "dur":2632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847382498, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847382517, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847382520, "dur":3341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674209847385894, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1674209847386006, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674209847386009, "dur":1764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1674209847387793, "dur":29522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847352416, "dur":425, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847352841, "dur":3348, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847356190, "dur":299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1674209847356491, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847358391, "dur":2816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1674209847361240, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847361282, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847363118, "dur":4208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847367374, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847367415, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847367420, "dur":2953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847370390, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847370409, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847370412, "dur":4477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847374906, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847374933, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847374936, "dur":3111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847378066, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847378136, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847378139, "dur":3135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847381296, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847381323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847381326, "dur":3248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847384595, "dur":2771, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847387368, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674209847388273, "dur":561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674209847388850, "dur":28454, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847352482, "dur":368, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847352850, "dur":3348, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847356198, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847356350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847358391, "dur":2761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847361170, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847361194, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847363098, "dur":3651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847366787, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847366808, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847366811, "dur":2952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847369781, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847369801, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847369804, "dur":4757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847374587, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847374607, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847374610, "dur":3100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847377730, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847377818, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847377821, "dur":2679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847380519, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847380540, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847380543, "dur":2933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847383503, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847383533, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674209847383537, "dur":4047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674209847387605, "dur":29686, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847352748, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847352749, "dur":3291, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847356045, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1674209847356075, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847356153, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1674209847356157, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847357378, "dur":2004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1674209847359385, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847359479, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847359574, "dur":9905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847369504, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847369524, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847369527, "dur":4438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847373982, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847374006, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847374009, "dur":3126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847377157, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847377239, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847377254, "dur":2913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847380208, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847380249, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847380255, "dur":2490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847382768, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847382793, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847382797, "dur":4348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674209847387166, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1674209847387240, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674209847387243, "dur":1073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1674209847388350, "dur":28971, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674209847352553, "dur":300, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674209847352853, "dur":3342, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674209847356195, "dur":302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1674209847356500, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674209847358073, "dur":2350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1674209847360440, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674209847360494, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674209847360497, "dur":17037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674209847377554, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674209847377632, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674209847377635, "dur":2823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674209847380476, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674209847380497, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674209847380500, "dur":2733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674209847383258, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674209847383280, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674209847383283, "dur":3556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674209847386870, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1674209847386906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674209847386911, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1674209847388773, "dur":28543, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847352646, "dur":210, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847352856, "dur":3334, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847356194, "dur":338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1674209847356532, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847357980, "dur":2538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1674209847360538, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1674209847360591, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847360594, "dur":4109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1674209847364723, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847364746, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847364749, "dur":3846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847368633, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847368674, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847368679, "dur":3693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847372410, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847372441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847372446, "dur":3730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847376199, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847376217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847376220, "dur":2732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847378975, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847379109, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847379114, "dur":2649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847381789, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847381831, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847381836, "dur":2826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674209847384689, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1674209847384714, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847384763, "dur":1624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1674209847386424, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1674209847386465, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674209847386469, "dur":1763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1674209847388259, "dur":29034, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847352770, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847352771, "dur":3327, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847356099, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1674209847356249, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847359370, "dur":2903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1674209847362312, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847362352, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847363326, "dur":4082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847367431, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847367451, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847367454, "dur":4550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847372033, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847372055, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847372058, "dur":3396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847375479, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847375500, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847375503, "dur":3465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847378990, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847379081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847379085, "dur":2646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847381752, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847381776, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847381794, "dur":2841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674209847384667, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":12, "ts":1674209847384755, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847385122, "dur":1428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":12, "ts":1674209847386602, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1674209847386670, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674209847386679, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1674209847388152, "dur":29172, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847352871, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847352872, "dur":3312, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847356188, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1674209847356384, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847358377, "dur":2597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1674209847361003, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847361027, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847362125, "dur":1070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847363214, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847363238, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847363241, "dur":4871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847368151, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847368191, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847368196, "dur":3909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847372144, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847372182, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847372187, "dur":3597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847375800, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847375903, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847375907, "dur":2811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847378813, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847379163, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847379166, "dur":2875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847382066, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847382101, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847382106, "dur":2824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674209847384953, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1674209847384980, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674209847384985, "dur":32244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1674209847417249, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":13, "ts":1674209847417251, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847352316, "dur":447, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847352763, "dur":3329, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847356095, "dur":424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1674209847356521, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847358957, "dur":3324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1674209847362302, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847362323, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847363208, "dur":3879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847367123, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847367161, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847367167, "dur":3219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847370427, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847370471, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847370476, "dur":4342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847374865, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847374908, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847374913, "dur":2992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847377923, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847377996, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847377999, "dur":2512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847380528, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847380553, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847380557, "dur":3008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847383583, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847383614, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674209847383617, "dur":5490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674209847389124, "dur":28189, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847352952, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847352953, "dur":3197, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847356151, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1674209847356258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847359365, "dur":2100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1674209847361482, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847361501, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847362927, "dur":2716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847365668, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847365689, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847365692, "dur":3630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847369370, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847369420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847369424, "dur":4912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847374369, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847374403, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847374407, "dur":3119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847377547, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847377624, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847377627, "dur":2512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847380210, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847380237, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847380240, "dur":2838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847383110, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847383144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847383150, "dur":2740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674209847385933, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1674209847385964, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674209847385969, "dur":1722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1674209847387709, "dur":29599, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847352338, "dur":429, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847352767, "dur":3274, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847356045, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":16, "ts":1674209847356180, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847358898, "dur":2120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":16, "ts":1674209847361038, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847361068, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847362862, "dur":2752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847365631, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847365825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847365828, "dur":4171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847370017, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847370037, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847370040, "dur":4769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847374828, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847374850, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847374854, "dur":3080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847377952, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847378024, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847378037, "dur":2869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847380923, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847380943, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847380946, "dur":4548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674209847385522, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":16, "ts":1674209847385638, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674209847385644, "dur":1793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":16, "ts":1674209847387469, "dur":29833, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847352930, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847352930, "dur":3124, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847356058, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":17, "ts":1674209847356353, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847359012, "dur":3415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":17, "ts":1674209847362444, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847362466, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847364410, "dur":3847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847368292, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847368431, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847368437, "dur":3743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847372197, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847372214, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847372217, "dur":3794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847376046, "dur":287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847376335, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847376340, "dur":2984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847379342, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847379545, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847379548, "dur":2668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847382239, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847382258, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847382261, "dur":2709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":17, "ts":1674209847385003, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":17, "ts":1674209847385029, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1674209847385033, "dur":3350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":17, "ts":1674209847388398, "dur":28921, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847352962, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847352963, "dur":3097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847356079, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":18, "ts":1674209847356220, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847358906, "dur":2452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":18, "ts":1674209847361378, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847361402, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847362854, "dur":2413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847365286, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847365308, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847365311, "dur":3900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847369228, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847369248, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847369251, "dur":4487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847373754, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847373777, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847373780, "dur":3171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847376970, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847377038, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847377042, "dur":2451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847379514, "dur":382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847379898, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847379901, "dur":2867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847382785, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847382808, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1674209847382823, "dur":4312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":18, "ts":1674209847387172, "dur":30114, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847352981, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847352981, "dur":3101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847356086, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1674209847356227, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847358964, "dur":2935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1674209847361930, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847361966, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847363057, "dur":2648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847365724, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847365744, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847365747, "dur":3650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847369413, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847369433, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847369436, "dur":4424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847373878, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847373899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847373902, "dur":4000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847377922, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847378003, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847378006, "dur":2979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847381025, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847381067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847381073, "dur":2406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847383504, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847383529, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1674209847383535, "dur":3659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":19, "ts":1674209847387227, "dur":30061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847353000, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847353000, "dur":3046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847356053, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1674209847356230, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847359965, "dur":1970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1674209847361966, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847361997, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847362931, "dur":2670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847365620, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847365647, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847365650, "dur":4595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847370268, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847370292, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847370295, "dur":4851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847375165, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847375186, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847375189, "dur":2887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847378096, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847378165, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847378168, "dur":2902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847381087, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847381106, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847381109, "dur":2896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847384022, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847384186, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1674209847384191, "dur":3605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jack Cheetham/Desktop/Game AI/DEL/GAMAI_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":20, "ts":1674209847387825, "dur":29486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674209847420110, "dur":1270, "ph":"X", "name": "ProfilerWriteOutput" }
+,
